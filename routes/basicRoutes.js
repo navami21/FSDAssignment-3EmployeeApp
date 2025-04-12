@@ -7,7 +7,7 @@ const data=[{"Emp_name":"John","Emp_designation":"HR","Emp_location":"Tvm","Emp_
 {"Emp_name":"Jiya","Emp_designation":"Manager","Emp_location":"Mumbai","Emp_salary":40000},
 {"Emp_name":"Maria","Emp_designation":"Project Coordinator","Emp_location":"Kochi","Emp_salary":35000},
 {"Emp_name":"Kesia","Emp_designation":"Technical Lead","Emp_location":"Calicut","Emp_salary":40000},
-{"Emp_name":"Kathline","Emp_designation":"Creative director","Emp_location":"Chennai","Emp_salary":40000},
+{"Emp_name":"Kathline","Emp_designation":"Creative Director","Emp_location":"Chennai","Emp_salary":40000},
 // {"Emp_name":"Helen","Emp_designation":"Senior Developer","Emp_location":"Tvm","Emp_salary":40000},
 ]
 function basicroutes(nav){
