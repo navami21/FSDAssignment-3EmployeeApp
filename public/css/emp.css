@@ -1,0 +1,59 @@
+body{
+    background:linear-gradient(to right,#f5efe7, #d8c4b6);
+}
+h2{
+    text-align: center;
+    color: #213555;
+}
+.container{
+    background: linear-gradient(to left, #8fa9b5, #cbdced);
+    border-radius: 10px;
+    padding: 20px;
+    font-weight: 600;
+    box-shadow: 0 4px 8px black;
+}
+.btn{
+    background-color: #3e5879;
+    font-weight: 600;
+    text-align: center;
+    box-shadow: 0 4px 8px black;
+}
+.custom-btn {
+    background-color: #3e5879;
+    font-weight: 600;
+    text-align: center;
+    border: none;
+    color: white;
+}
+
+.custom-btn:hover {
+    background-color: #d8c4b6;
+    color: #213555;
+}
+
+nav{
+    background-color: #3e5879;
+    color:#f5efe7;
+}
+/* public/css/home.css */
+.navbar .nav-link {
+    color: #f5efe7 !important;
+    font-weight: 600;
+  }
+  
+  .navbar .navbar-brand {
+    color:#f5efe7 !important;
+    font-weight: 600;
+  }
+  .navbar .nav-link:hover{
+    background-color: #d8c4b6;
+    color:#213555;
+    border-radius: 2px;
+  }
+  /* Stronger specificity for hover */
+.navbar .nav-link.active:hover,
+.navbar .nav-link:hover {
+  background-color: #d8c4b6 !important;
+  color: #3e5879 !important;
+  border-radius: 2px;
+}
